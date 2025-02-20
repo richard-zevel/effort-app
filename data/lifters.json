@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "weightClass": "83kg",
+    "bodyWeight": 82.5,
+    "attempts": {
+      "squat": [
+        { "weight": 150, "attempted": true, "passed": true },
+        { "weight": 160, "attempted": true, "passed": false },
+        { "weight": 170, "attempted": false, "passed": false }
+      ],
+      "bench": [
+        { "weight": 100, "attempted": false, "passed": false },
+        { "weight": 110, "attempted": false, "passed": false },
+        { "weight": 120, "attempted": false, "passed": false }
+      ],
+      "deadlift": [
+        { "weight": 200, "attempted": false, "passed": false },
+        { "weight": 210, "attempted": false, "passed": false },
+        { "weight": 220, "attempted": false, "passed": false }
+      ]
+    },
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "weightClass": "57kg",
+    "bodyWeight": 56.7,
+    "attempts": {
+      "squat": [
+        { "weight": 100, "attempted": false, "passed": false },
+        { "weight": 110, "attempted": false, "passed": false },
+        { "weight": 120, "attempted": false, "passed": false }
+      ],
+      "bench": [
+        { "weight": 60, "attempted": false, "passed": false },
+        { "weight": 65, "attempted": false, "passed": false },
+        { "weight": 70, "attempted": false, "passed": false }
+      ],
+      "deadlift": [
+        { "weight": 130, "attempted": false, "passed": false },
+        { "weight": 140, "attempted": false, "passed": false },
+        { "weight": 150, "attempted": false, "passed": false }
+      ]
+    },
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Mark Johnson",
+    "weightClass": "105kg",
+    "bodyWeight": 104.3,
+    "attempts": {
+      "squat": [
+        { "weight": 200, "attempted": false, "passed": false },
+        { "weight": 210, "attempted": false, "passed": false },
+        { "weight": 220, "attempted": false, "passed": false }
+      ],
+      "bench": [
+        { "weight": 140, "attempted": false, "passed": false },
+        { "weight": 150, "attempted": false, "passed": false },
+        { "weight": 160, "attempted": false, "passed": false }
+      ],
+      "deadlift": [
+        { "weight": 250, "attempted": false, "passed": false },
+        { "weight": 260, "attempted": false, "passed": false },
+        { "weight": 270, "attempted": false, "passed": false }
+      ]
+    },
+    "status": "Active"
+  }
+]
